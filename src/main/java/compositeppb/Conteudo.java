@@ -1,10 +1,10 @@
 package compositeppb;
 
-public abstract class Peca {
+public abstract class Conteudo {
 
     private String descricao;
 
-    public Peca(String descricao) {
+    public Conteudo(String descricao) {
         this.descricao = descricao;
     }
 
